@@ -1,0 +1,12 @@
+
+
+java:S1488O"dImmediately return this expression instead of assigning it to the temporary variable "customerList".(Àô†ü8ÛÈš1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(”°©"8£ÛÈš1
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(”°©"8¤ÛÈš1
+\
+java:S11177"?Rename "transaction" which hides the field declared at line 17.(šÙÿ¯8¥ÛÈš1
+]
+java:S11178";Rename "session" which hides the field declared at line 16.(‹ùØİùÿÿÿÿ8¦ÛÈš1
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(©—¯Ú8¬ÛÈš1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ÏßÜš1

@@ -1,0 +1,16 @@
+
+|
+java:S1488M"_Immediately return this expression instead of assigning it to the temporary variable "carList".(¸­Ş¼8Ø‡ÏŞš1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(”°©"8ó‡ÏŞš1
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(”°©"8õ‡ÏŞš1
+\
+java:S11175"?Rename "transaction" which hides the field declared at line 15.(šÙÿ¯8ö‡ÏŞš1
+]
+java:S11176";Rename "session" which hides the field declared at line 14.(‹ùØİùÿÿÿÿ8ö‡ÏŞš1
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(–ı ±ÿÿÿÿÿ8ø‡ÏŞš1
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(áŒŒ›úÿÿÿÿ8ø‡ÏŞš1
+H
+java:S1168b"+Return an empty collection instead of null.(¥¹ï8ø‡ÏŞš1
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(áŒŒ›úÿÿÿÿ8ú‡ÏŞš1
+H
+java:S1168m"+Return an empty collection instead of null.(¥¹ï8ú‡ÏŞš1

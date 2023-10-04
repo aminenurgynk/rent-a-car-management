@@ -1,0 +1,21 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆÍë68‘õÏÝš1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¬™¸ûÿÿÿÿ8À•ªáš1
+]	java:S125"<This block of commented-out lines of code should be removed.(’³Àßùÿÿÿÿ8—õÏÝš1
+X	java:S125"<This block of commented-out lines of code should be removed.(ËŸðá8—õÏÝš1
+X	java:S125"<This block of commented-out lines of code should be removed.(êƒóô8—õÏÝš1
+X	java:S125>"<This block of commented-out lines of code should be removed.(ü‹«¯8–àÜÝš1
+D
+java:S2440]"'Remove this instantiation of "AppMenu".(Óã€±8œÉÑÞš1
+R
+java:S2209^"5Change this instance-reference to a static reference.(²õØÖ8œÉÑÞš1
+h
+java:S1128"KRemove this unused import 'com.aminenurgynk.controller.CustomerController'.(£½¶å8—àÜÝš1
+X
+java:S1128";Remove this unused import 'com.aminenurgynk.model.Address'.(¿Žž°8—àÜÝš1
+^
+java:S1128"<Remove this unused import 'com.aminenurgynk.model.Customer'.(·ˆØ×ûÿÿÿÿ8—àÜÝš1
+h
+java:S1128"FRemove this unused import 'com.aminenurgynk.repository.CarRepository'.(Ó‹ù÷ùÿÿÿÿ8…ÛÚÝš1
+m
+java:S1128"KRemove this unused import 'com.aminenurgynk.repository.CustomerRepository'.(‚©•Áúÿÿÿÿ8…ÛÚÝš1

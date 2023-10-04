@@ -1,0 +1,8 @@
+
+}
+java:S1488L"`Immediately return this expression instead of assigning it to the temporary variable "rentList".(”ñýº8¡Ôæáš1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(”°©"8ºÔæáš1
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(”°©"8¼Ôæáš1
+]
+java:S11176";Rename "session" which hides the field declared at line 15.(‹ùØÝùÿÿÿÿ8½Ôæáš1
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(£áÄ˜ýÿÿÿÿ8ÀÔæáš1
