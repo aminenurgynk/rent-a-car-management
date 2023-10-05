@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RENT A CAR MANAGEMENT
 
 ## OOP, JPA, Hibernate
@@ -24,3 +25,7 @@ One to Many
 
 (belki sonra calisana prim ekleyip method olarak da hangi calisan kac
 araba satmis gibi bir seyler yapilabilir biraz extrem bir olay)
+=======
+# rent-a-car-management
+OOP-JPA Project
+>>>>>>> origin/main
